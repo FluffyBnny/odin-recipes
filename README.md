@@ -1,2 +1,2 @@
 # odin-recipes
-basic recipe website
+My first project containing 3 different recipes.
